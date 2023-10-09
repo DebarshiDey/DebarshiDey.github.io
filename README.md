@@ -8,4 +8,8 @@ The slideshow presented to the judges can be found here: https://docs.google.com
 
 The devpost for the project can be found here: https://devpost.com/software/incidentexposed
 
+The link for the website can be found here: http://bitcamp2023.s3-website-us-east-1.amazonaws.com/
+
+NOTE: The map for the website currently unavailable due to migration from local to domain hosting. It will be up shortly
+
 Future: We are currently working on providing safe route-finding and advanced analytics implementations for the web app. We are also exploring ways to prevent excessive API calls.
